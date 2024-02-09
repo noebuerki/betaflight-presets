@@ -1,0 +1,8 @@
+#$ TITLE: noebuerki Vista OSD
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: osd, vista
+#$ AUTHOR: Noé Bürki
+#$ INCLUDE: presets/4.4/osd/defaults.txt
+

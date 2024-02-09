@@ -1,0 +1,13 @@
+#$ TITLE: noebuerki Modes
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: modes
+#$ AUTHOR: Noé Bürki
+
+aux 0 0 0 1975 2025 0 0
+aux 1 1 4 1975 2025 1 0
+aux 2 13 5 1975 2025 0 0
+aux 3 35 1 975 1025 0 0
+aux 4 36 3 975 1025 0 0
+aux 5 49 1 1975 2025 0 0
