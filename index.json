@@ -190,7 +190,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/noebuerki_hd_osd.txt",
-      "hash": "b4326bdbb574c1b3e2295cc5f1a4ab8fba46bd5f6b522e2ffb0a240c42d8965e",
+      "hash": "1bc6a9a5106bb7f73d22c54c4477241297f9a1e138c05ba1fa05faba5f75f003",
       "title": "noebuerki HD OSD",
       "firmware_version": [
         "4.4"
@@ -206,7 +206,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/noebuerki_vista_osd.txt",
-      "hash": "cd2380f4344dd89af3b3f5b46488e4b465b456436900e83695766aa3d9817b3b",
+      "hash": "e3d6aca3e8a1f0cf3d8858642086f0692f6a7a286fc4d871dd2abf002b7bdf49",
       "title": "noebuerki Vista OSD",
       "firmware_version": [
         "4.4"
@@ -222,7 +222,7 @@
     },
     {
       "fullPath": "presets/4.4/other/noebuerki_beeper.txt",
-      "hash": "6f35a4fe20123e64719b2365a4174ffdc777ac21218de7f087c6833faaa024c3",
+      "hash": "f2921fb2b5ccbd98ca756794d6fa6f963a1cdd60f7875591d8f0a77632903276",
       "title": "noebuerki Beeper",
       "firmware_version": [
         "4.4"
