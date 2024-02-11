@@ -6,3 +6,22 @@
 #$ AUTHOR: Noé Bürki
 #$ INCLUDE: presets/4.4/osd/defaults.txt
 
+
+set osd_warn_bitmask = 18431
+set osd_tim1 = 0
+set osd_tim2 = 1
+set osd_vbat_pos = 496
+set osd_link_quality_pos = 16004
+set osd_flymode_pos = 15016
+set osd_current_pos = 15031
+set osd_mah_drawn_pos = 15038
+set osd_warnings_pos = 14984
+set osd_avg_cell_voltage_pos = 16036
+set osd_battery_usage_pos = 33377
+set osd_disarmed_pos = 15021
+set osd_flip_arrow_pos = 14685
+set osd_stat_bitmask = 1668
+set osd_canvas_width = 60
+set osd_canvas_height = 22
+set osd_displayport_device = MSP
+set vcd_video_system = HD

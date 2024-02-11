@@ -151,6 +151,7 @@
       "modes",
       "OSD",
       "reset",
+      "telemetry",
       "vista"
     ]
   },
@@ -205,7 +206,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/noebuerki_vista_osd.txt",
-      "hash": "5d2d13852b18e30f1b26c11ed8654be499f2e3f686730c34e1db330f1837aacf",
+      "hash": "cd2380f4344dd89af3b3f5b46488e4b465b456436900e83695766aa3d9817b3b",
       "title": "noebuerki Vista OSD",
       "firmware_version": [
         "4.4"
@@ -230,6 +231,21 @@
       "status": "COMMUNITY",
       "keywords": [
         "beeper"
+      ],
+      "author": "Noé Bürki",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/other/noebuerki_telemetry.txt",
+      "hash": "c1acab2120cfad8364e1fcb7af62933f8b332cf598de504170be5dca3d3b25c2",
+      "title": "noebuerki Telemetry",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "telemetry"
       ],
       "author": "Noé Bürki",
       "priority": 0

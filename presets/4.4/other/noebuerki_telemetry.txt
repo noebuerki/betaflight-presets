@@ -1,0 +1,8 @@
+#$ TITLE: noebuerki Telemetry
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: telemetry
+#$ AUTHOR: Noé Bürki
+
+set report_cell_voltage = on
