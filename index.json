@@ -133,7 +133,7 @@
   },
   "uniqueValues": {
     "firmware_version": [
-      "4.4"
+      "4.5"
     ],
     "category": [
       "MODES",
@@ -157,11 +157,11 @@
   },
   "presets": [
     {
-      "fullPath": "presets/4.4/modes/noebuerki_modes.txt",
-      "hash": "dea4ceee88c4d9c784719c1d69bee2fbc432db526e08b004712191c56ef16255",
+      "fullPath": "presets/4.5/modes/noebuerki_modes.txt",
+      "hash": "b6bc66900d53dba6475a627ef1bf26c7922ac932c582fcc6c2866bfabc38558b",
       "title": "noebuerki Modes",
       "firmware_version": [
-        "4.4"
+        "4.5"
       ],
       "category": "MODES",
       "status": "COMMUNITY",
@@ -172,11 +172,11 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/osd/defaults.txt",
-      "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
-      "title": "Default 4.4 OSD settings",
+      "fullPath": "presets/4.5/osd/defaults.txt",
+      "hash": "a4b649b43180f54f6f0e7d442c8f6656b2e7cd613914cb3a649641d21310b561",
+      "title": "Default 4.5 OSD settings",
       "firmware_version": [
-        "4.4"
+        "4.5"
       ],
       "category": "OSD",
       "status": "OFFICIAL",
@@ -189,11 +189,11 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/osd/noebuerki_hd_osd.txt",
-      "hash": "1bc6a9a5106bb7f73d22c54c4477241297f9a1e138c05ba1fa05faba5f75f003",
+      "fullPath": "presets/4.5/osd/noebuerki_hd_osd.txt",
+      "hash": "43b78dda32097830afda32c385e77499a2e26d7a7e63ed3bc12e0e895c02bcb3",
       "title": "noebuerki HD OSD",
       "firmware_version": [
-        "4.4"
+        "4.5"
       ],
       "category": "OSD",
       "status": "COMMUNITY",
@@ -205,11 +205,11 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/osd/noebuerki_vista_osd.txt",
-      "hash": "e3d6aca3e8a1f0cf3d8858642086f0692f6a7a286fc4d871dd2abf002b7bdf49",
+      "fullPath": "presets/4.5/osd/noebuerki_vista_osd.txt",
+      "hash": "86ee68325d8bb3e003a3d17e6230630cd156ee043cbe9005dda1c2d422ffed22",
       "title": "noebuerki Vista OSD",
       "firmware_version": [
-        "4.4"
+        "4.5"
       ],
       "category": "OSD",
       "status": "COMMUNITY",
@@ -221,11 +221,11 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/other/noebuerki_beeper.txt",
-      "hash": "f2921fb2b5ccbd98ca756794d6fa6f963a1cdd60f7875591d8f0a77632903276",
+      "fullPath": "presets/4.5/other/noebuerki_beeper.txt",
+      "hash": "0f82ed98c7f535724acbedd64a0cb3423fd410ca51f73a3661934f620546f7fe",
       "title": "noebuerki Beeper",
       "firmware_version": [
-        "4.4"
+        "4.5"
       ],
       "category": "OTHER",
       "status": "COMMUNITY",
@@ -236,11 +236,11 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/other/noebuerki_telemetry.txt",
-      "hash": "c1acab2120cfad8364e1fcb7af62933f8b332cf598de504170be5dca3d3b25c2",
+      "fullPath": "presets/4.5/other/noebuerki_telemetry.txt",
+      "hash": "a017dc6b19b48c9c455c9df085de015e8b4d6f62b976846f85d5ebad5f04e98a",
       "title": "noebuerki Telemetry",
       "firmware_version": [
-        "4.4"
+        "4.5"
       ],
       "category": "OTHER",
       "status": "COMMUNITY",
