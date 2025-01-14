@@ -1,5 +1,5 @@
-#$ TITLE: Default 4.4 OSD settings
-#$ FIRMWARE_VERSION: 4.4
+#$ TITLE: Default 4.5 OSD settings
+#$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: defaults, reset, OSD

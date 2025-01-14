@@ -1,10 +1,10 @@
 #$ TITLE: noebuerki Vista OSD
-#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: osd, vista
 #$ AUTHOR: Noé Bürki
-#$ INCLUDE: presets/4.4/osd/defaults.txt
+#$ INCLUDE: presets/4.5/osd/defaults.txt
 
 
 set osd_warn_bitmask = 18431

@@ -1,5 +1,5 @@
 #$ TITLE: noebuerki Telemetry
-#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: telemetry
