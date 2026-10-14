@@ -20,10 +20,9 @@ beeper -DISARM_REPEAT
 beeper -ARMED
 beeper -ON_USB
 beeper -BLACKBOX_ERASE
-beeper -CRASH_FLIP
+beeper -CRASHFLIP
 beeper -CAM_CONNECTION_OPEN
 beeper -CAM_CONNECTION_CLOSE
-beeper -RC_SMOOTHING_INIT_FAIL
 
 #$ OPTION BEGIN (UNCHECKED): Use DShot Beacon
 beacon RX_LOST
